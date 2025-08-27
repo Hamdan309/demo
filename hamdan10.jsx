@@ -1,9 +1,9 @@
 import React from 'react'
 
-function main() {
+function hamdan10() {
     return (
         <div>hamdan10</div>
     )
 }
 
-export default main
+export default hamdan10
